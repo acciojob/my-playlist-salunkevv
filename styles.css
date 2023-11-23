@@ -29,9 +29,9 @@ align-item:center;
 	list-style-type:none;
 	
 }
-.playlist>ul>li>a{
+/* .playlist>ul>li>a{
 	target:"_blank";
-}
+} */
 .playing{
 	box-sizing: border-box;
   width: 550px;
