@@ -25,6 +25,9 @@ align-item:center;
 	padding-top:15px;
 	list-style-type:none;
 }
+.playlist>ul>li{
+	target:_blank;
+}
 .playing{
 	box-sizing: border-box;
   width: 550px;
