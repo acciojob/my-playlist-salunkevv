@@ -23,9 +23,10 @@ align-item:center;
 }
 .playlist>ul{
 	padding-top:15px;
-	list-style-type:none;
+	
 }
-.playlist>ul li{
+.playlist>ul>li{
+	list-style-type:none;
 	target:_blank;
 }
 .playing{
