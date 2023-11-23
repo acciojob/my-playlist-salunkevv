@@ -2,6 +2,9 @@
 body{
 	background:rgb(204, 204, 204);
 }
+.plu{
+	text-align:center;
+}
 .playlist{
 /* 	align-item:center; */
  box-sizing: border-box;
@@ -12,6 +15,10 @@ body{
    border: 2px solid black;
 	border-radius:6px;
   }
+.play{
+	text-align:center;
+	padding-bottom:10px;
+}
 .playlist>ul{
 	padding-top:15px;
 }
