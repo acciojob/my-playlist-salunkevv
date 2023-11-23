@@ -14,6 +14,7 @@ align-item:center;
   background-color: white;
    border: 2px solid black;
 	border-radius:6px;
+	margin-left:10px;
   }
 .play{
 	text-align:center;
@@ -30,6 +31,7 @@ align-item:center;
   background-color: white;
    border: 2px solid black;
 	border-radius:6px;
+	margin-left:32.5px;
 }
 .me{
 	padding-left:12.5px;
