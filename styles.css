@@ -3,6 +3,7 @@ body{
 	background:rgb(204, 204, 204);
 }
 .playlist{
+	align-item:center;
  box-sizing: border-box;
   width: 550px;
   height: 150px;
