@@ -35,12 +35,14 @@ align-item:center;
 	border-radius:6px;
 	margin-left:32.5px;
 }
-.me{
+.player_one{
 	padding-left:12.7px;
 	padding-top:8px;
+	background-color: rgb(255, 255, 255); 
 }
-.me2{
+.player_two{
 	width:525px;
 	height:50px;
 	padding-left:10px;
+	background-color: rgb(255, 255, 255); 
 }
