@@ -9,8 +9,9 @@ body{
   height: 150px;
   overflow: none;
   background-color: white;
-  border-radius:10px;
+   border: 2px solid black;
+	border-radius:10px;
   }
-#ok{
-	border-color:black;
+.playlist>ul{
+	padding-top:15px;
 }
