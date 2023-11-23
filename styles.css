@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 body{
 	background:rgb(204, 204, 204);
+	
 }
 .plu{
 	text-align:center;
@@ -22,6 +23,7 @@ align-item:center;
 }
 .playlist>ul{
 	padding-top:15px;
+	list-style-type:none;
 }
 .playing{
 	box-sizing: border-box;
@@ -34,7 +36,7 @@ align-item:center;
 	margin-left:32.5px;
 }
 .me{
-	padding-left:12.5px;
+	padding-left:12.7px;
 	padding-top:8px;
 }
 .me2{
