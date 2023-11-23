@@ -2,7 +2,7 @@
 body{
 	background:rgb(204, 204, 204);
 }
-playlist{
+.playlist{
    width:80px;
 	height:30px;
 }
