@@ -39,6 +39,7 @@ align-item:center;
 	padding-left:12.7px;
 	padding-top:8px;
 	background-color: rgb(255, 255, 255); 
+	border-radius:none;
 }
 .player_two{
 	width:525px;
